@@ -1,0 +1,2 @@
+Shader are small, self contained programs that run on your gpu during each step of [[The graphics pipeline]]. 
+Although many of the shaders have default implementations that you either cannot change yourself, or you often won't need to, there are no default implementations of the **vertex shader** or **fragments shader.** You are required to provide OpenGL with your own implementation of these, either compiled from a hardcoded CStribg or loaded from a file into a CStribg. OpenGL will the compile these shaders for you at runtime before attaching them to a [[Shader program]] 
