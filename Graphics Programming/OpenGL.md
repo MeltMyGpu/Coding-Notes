@@ -9,3 +9,4 @@ OpenGL is composed of ‘objects’, each representing a subset of OpenGL’s st
 
 [[The graphics pipeline]]
 [[Shaders]]
+
