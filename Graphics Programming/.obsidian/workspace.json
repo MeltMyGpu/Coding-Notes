@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "06033acdc90cb374",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb132cefb29ce768",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65990f79bf6d5b75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OpenGL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "67bc674ea4ef3d2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Implementation/Shader program.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cae99380f0032a1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Functionality/Shaders.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8f1c8fc812ebd31b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Functionality/The graphics pipeline.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "03f6b7fc0e755b52",
+    "type": "split",
+    "children": [
+      {
+        "id": "02805b07ccdf7572",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1fcbff4c4a6d7afc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9538921712a5913e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "958f0d5b31ffb406",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5d0f0dc3d2c59986",
+    "type": "split",
+    "children": [
+      {
+        "id": "3188c9efd0e6ac4a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a8a696bb3305115",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Functionality/The graphics pipeline.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "afcaf74c73827a42",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Functionality/The graphics pipeline.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3a545207935b3d73",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a3a796ddcfa2b6a7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Functionality/The graphics pipeline.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8f1c8fc812ebd31b",
+  "lastOpenFiles": [
+    "Functionality/Shaders.md",
+    "Implementation/Shader program.md",
+    "OpenGL.md"
+  ]
+}
