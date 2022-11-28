@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "caf655bc59b740cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "67c990913ccea52e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42449394975c6e77",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7b692c617c4f5f5d",
+    "type": "split",
+    "children": [
+      {
+        "id": "58ff3820c7a97963",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "232adf343f91944d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "262af1fb0d36a8c8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Implementation",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4eb7fa9fe1b3bd31",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e3bfb00c52697596",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e356032e36eee66",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34944d60c84247c3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "93179922c5b7ef5e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "edec0595ec9d1c4d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e71a8d6b96f0e665",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "42449394975c6e77",
+  "lastOpenFiles": [
+    "Graphics Programming/Implementation/Shader program.md",
+    "Graphics Programming/Implementation/Program struct.md",
+    "Graphics Programming/Functionality/Shaders.md",
+    "Graphics Programming/Implementation/Shader compiler.md",
+    "Graphics Programming/OpenGL.md",
+    "Graphics Programming/Functionality/The graphics pipeline.md",
+    "Sdl2/Functionality/Application events.md",
+    "Graphics Programming/Implementation/Shader Struct.md",
+    "Error buffer.md",
+    "The-Game-Engine-Index.md"
+  ]
+}

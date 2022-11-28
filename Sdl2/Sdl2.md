@@ -1,3 +1,8 @@
+#CoreNode 
+### Back Links
+[[The-Game-Engine-Index]]
+
+# Content
 SDL2 is a Cross-platform library that allows us to create a window and manage system events.
 sdl2 is self referencing within our code, meaning that as longs as any SDL sub-object exists our initialised SDL object will not be dropped, due to all sub-object containing a reference to the original.
 
